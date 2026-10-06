@@ -1,7 +1,6 @@
 class Graph_Matrix:
     def __init__(self, vertices):
         self.vertices = vertices
-        # self.graph = [[0 for _ in range(vertices)] for _ in range(vertices)] # better
         self.graph = [[0] * self.vertices for _ in range(self.vertices)]  # Initialize adjacency matrix with zeros
 
     def add_edge(self, source, destination):
