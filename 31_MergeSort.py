@@ -1,4 +1,10 @@
 def MergeSort(arr, left, right):
+    """
+    Time Complexity: Best Case: O(n log n)
+    Time Complexity: Average Case: O(n log n)
+    Time Complexity: Worst Case: O(n log n)
+    Auxiliary Space: O(n)
+    """
     if left < right:
         mid = (left + right) // 2
         MergeSort(arr, left, mid)

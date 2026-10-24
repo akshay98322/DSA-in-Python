@@ -1,4 +1,10 @@
 def BubbleSort(arr):
+    """
+    Time Complexity: Best Case: O(n^2) 
+    Time Complexity: Average Case: O(n^2)
+    Time Complexity: Worst Case: O(n^2)
+    Auxiliary Space: O(1)
+    """
     n = len(arr)
     for i in range(n):
         # Last i elements are already sorted
