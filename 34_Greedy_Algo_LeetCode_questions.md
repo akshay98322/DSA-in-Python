@@ -1,11 +1,10 @@
 # Greedy Algorithm Practice Questions
 
-
 - [Coding Blocks - Dividing Array](https://discuss.codingblocks.com/t/wa-in-dividing-array/4787)
 
 - [Coding Blocks - Dividing Array](https://discuss.codingblocks.com/t/wrong-answer-in-dividing-array/5763)
 
-- [LeetCode - Coin Change](https://leetcode.com/problems/coin-change/description/)
+- [GFG - Minimum Coins](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1)
 
 - [Theory - Fractional Knapsack](https://leetcode.com/discuss/post/2479925/fractional-knapsack-by-pranjal9424-eob9/)
 
